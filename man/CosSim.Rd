@@ -2,7 +2,7 @@
 % Please edit documentation in R/CosSim.R
 \name{CosSim}
 \alias{CosSim}
-\title{1. Cosine Similarity.}
+\title{1. Cosine Similarity}
 \usage{
 CosSim(matrix_cs)
 }

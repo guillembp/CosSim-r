@@ -1,7 +1,7 @@
 library("devtools")
 library(roxygen2)
 
-#' 1. Cosine Similarity.
+#' 1. Cosine Similarity
 #'
 #' @description This function calculates the row similarity of a nxm matrix using the cosine pairwise projection
 #' @param matrix_cs only required parameter. If required similarity by columns, transpose the input matrix.
