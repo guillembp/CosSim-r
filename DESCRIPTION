@@ -1,0 +1,14 @@
+Package: CosSim
+Title: Row-wise Cosine Similarity from a matrix.
+Version: 0.0.0.9000
+Authors@R: person("Guillem", "BagariaPortet", email = "guillem.bagaria@barcelonagse.eu", role = c("aut", "cre"))
+Description: This function calculates the row similarity of a nxm matrix using the cosine pairwise projection.
+Depends: R (>= 3.4.3)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
+Suggests: 
+    testthat
+Imports: 
+    CosSim
